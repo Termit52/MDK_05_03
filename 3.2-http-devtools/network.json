@@ -1,0 +1,36 @@
+{
+  "request": {
+    "url": "http://127.0.0.1:8913/10-user-interface/index.html",
+    "method": "GET",
+    "headers": {
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+      "Accept-Encoding": "gzip, deflate, br, zstd",
+      "Connection": "keep-alive",
+      "Host": "127.0.0.1:8913",
+      "Sec-Fetch-Dest": "document",
+      "Sec-Fetch-Mode": "navigate",
+      "Sec-Fetch-Site": "none",
+      "Sec-Fetch-User": "?1",
+      "Upgrade-Insecure-Requests": "1",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.8078.79 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"HeadlessChrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Linux\""
+    },
+    "hasPostData": false
+  },
+  "response": {
+    "status": 200,
+    "statusText": "OK",
+    "protocol": "http/1.0",
+    "mimeType": "text/html",
+    "headers": {
+      "Content-Length": "1523",
+      "Content-type": "text/html",
+      "Date": "Mon, 09 Nov 2026 11:59:49 GMT",
+      "Last-Modified": "Mon, 09 Nov 2026 11:58:52 GMT",
+      "Server": "SimpleHTTP/0.6 Python/3.12.14"
+    }
+  },
+  "bodyFile": "response.html.txt"
+}
